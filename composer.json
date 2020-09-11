@@ -3,7 +3,7 @@
   "type": "library",
   "description": "Client library for NetBase Team Developer Customize from API Google",
   "keywords": ["google", "oauth2", "authentication"],
-  "homepage": "https://github.com/mrchienbmq/googleapiclientservice",
+  "homepage": "https://github.com/mrchienbmq/auth",
   "license": "Apache-2.0",
   "support": {
     "docs": "https://googleapis.github.io/google-auth-library-php/master/"
